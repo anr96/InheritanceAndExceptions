@@ -1,6 +1,6 @@
 #HW6 Inheritance and Exceptions 
 
-Amanda Robinson
+#Amanda Robinson
 
 [![Build Status](https://travis-ci.com/csc340-03-spring-2016/csc340-03-hw6-anr96.svg?token=sqKHHUsKkyZTggTth4Mt&branch=master)](https://travis-ci.com/csc340-03-spring-2016/csc340-03-hw6-anr96)
 
