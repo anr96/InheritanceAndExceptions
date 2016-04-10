@@ -1,10 +1,8 @@
 #HW6 Inheritance and Exceptions 
 
-#First-Name Last-Name
+Amanda Robinson
 
-TODO - Update your name in this readme.
-
-TODO - Add a badge from travis CI here
+[![Build Status](https://travis-ci.com/csc340-03-spring-2016/csc340-03-hw6-anr96.svg?token=sqKHHUsKkyZTggTth4Mt&branch=master)](https://travis-ci.com/csc340-03-spring-2016/csc340-03-hw6-anr96)
 
 ##Problem statement:
 Implement a class hierarchy as shown in the accompanying class relationship UML. 
